@@ -1,0 +1,1 @@
+java -p  top-level\target\top-level-1.0-SNAPSHOT.jar;top-level\target\lib -m top.level/ch.noser.modul.top.level.Test
